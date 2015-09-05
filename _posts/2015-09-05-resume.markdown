@@ -37,8 +37,10 @@ redirect_from: "/2015/09/05/resume/"
 
 
 
-### Smart Cloud (August 2013 – Present)
-http://smartcloudcompany.com/
+### Smart Cloud 
+
+August 2013 – Present
+[http://smartcloudcompany.com/](http://smartcloudcompany.com/)
 
 I’ve been working in this company past two years. My main duty here is building iOS applications, Javascript applications, and backed support to provide APIs for client/server communication. Quite often I implement these backends by myself using Ruby On Rails framework. As part of the entire product solution quite often I make internal admin panels using Ruby On Rails. Also there were couple of projects needed to implement web applications with rich UI. For these applications I’ve used Javascript frameworks such as AngularJS and EmberJS. 
 
@@ -71,7 +73,7 @@ This is an iOS and Android client application that helps EDM fans follow their f
 
 Service for managing your wishes list, browsing friends' wishes and promising to make their wishes came true. My work on this project was to implement MVP iOS application and server API (Ruby On Rails).
 
-### Veeb (http://veebproject.azurewebsites.net/). 
+#### Veeb (http://veebproject.azurewebsites.net/). 
 
 This is a full screen visual messaging app. My work on this project was to build an MVP iOS application.
 
