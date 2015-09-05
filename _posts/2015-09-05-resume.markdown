@@ -31,7 +31,7 @@ redirect_from: "/2015/09/05/resume/"
         <td>+7 (923) 297-22-56</td>
     </tr>
 </table>
-
+<br>
 
 ## Job Experience
 
