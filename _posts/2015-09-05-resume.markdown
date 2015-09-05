@@ -78,7 +78,8 @@ Flow Labs builds a hardware and software ecosystem to help people create and mai
 
 The world's first whitening simulator for dental websites and offices.  
 
-This is a complex product for dentists which consists of many parts:  
+This is a complex product for dentists which consists of many parts:
+
 - Web application. This is an HTML/Javascript application which can be embedded into dentist's web site. It has been implemented using Ruby/Sinatra backend application and AngularJS client side application. You can see how it works on real dentist's site http://greatexpressions.com/dental-services/general-dentistry/teeth-whitening  
 - iPad application. This application has been implemented for using by patients of a dentistry. Quick demo is here http://goo.gl/lVyY9y  
 - iPhone application - https://itunes.apple.com/us/app/whitening-simulator/id341030387?mt=8  
@@ -93,7 +94,8 @@ This is a complex product for dentists which consists of many parts:
 
 iOS client application that helps EDM fans follow their favorite artists and plan festival trips.   
 
-My work on this project was to implement following things:  
+My work on this project was to implement following things: 
+
 - News sources parser. This is a background worker which periodically fetches news articles from different RSS news aggregators and save them into EDMX database.  
 - Articles review panel. Because the articles get into system through the parser bot, they need to be reviewed by a human. This panel has been implemented using EmberJS and Ruby On Rails.  
 - News feature on the iOS application: browsing, searching, saving and favoriting articles.
