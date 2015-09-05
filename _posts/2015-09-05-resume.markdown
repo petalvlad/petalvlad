@@ -18,7 +18,7 @@ redirect_from: "/2015/09/05/resume/"
         <table>
     
             <tr>
-                <td style="padding-right: 10px;"><b>Full name</b></td>
+                <td style="padding-right: 15px;"><b>Full name</b></td>
                 <td>Alexander Petropavlovsky</td>
             </tr>
             <tr>
@@ -50,12 +50,13 @@ redirect_from: "/2015/09/05/resume/"
 ## Job Experience
 
 
-
 ### Smart Cloud 
 
 August 2013 – Present, [http://smartcloudcompany.com/](http://smartcloudcompany.com/)
 
 I’ve been working in this company past two years. My main duty here is building iOS applications, Javascript applications, and backed support to provide APIs for client/server communication. Quite often I implement these backends by myself using Ruby On Rails framework. As part of the entire product solution quite often I make internal admin panels using Ruby On Rails. Also there were couple of projects needed to implement web applications with rich UI. For these applications I’ve used Javascript frameworks such as AngularJS and EmberJS. 
+
+<br>
 
 Here are the projects I’ve worked on in Smart Cloud company.
 
@@ -68,6 +69,8 @@ Flow Labs builds a hardware and software ecosystem to help people create and mai
 - Read water consumptions data from device 
 - Display water hydration progress 
 - Allow to add water inputs manually
+
+<br>
 
 #### Whitening Simulator Pro
 
@@ -123,7 +126,7 @@ Software Development, iOS development, Objective-C, Ruby, Ruby on Rails, JavaScr
 
 <table>
     <tr>
-        <td><b>University</b></td>
+        <td style="padding-right: 15px;"><b>University</b></td>
         <td>Siberian State Technological University</td>
     </tr>
     <tr>
