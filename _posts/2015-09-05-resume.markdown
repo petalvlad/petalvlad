@@ -42,10 +42,9 @@ redirect_from: "/2015/09/05/resume/"
     </div>
 </div>
 
-<div></div>
-<br>
-
 </section>
+
+<br>
 
 ## Job Experience
 
