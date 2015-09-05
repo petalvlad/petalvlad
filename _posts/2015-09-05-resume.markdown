@@ -39,8 +39,7 @@ redirect_from: "/2015/09/05/resume/"
 
 ### Smart Cloud 
 
-August 2013 – Present
-[http://smartcloudcompany.com/](http://smartcloudcompany.com/)
+August 2013 – Present, [http://smartcloudcompany.com/](http://smartcloudcompany.com/)
 
 I’ve been working in this company past two years. My main duty here is building iOS applications, Javascript applications, and backed support to provide APIs for client/server communication. Quite often I implement these backends by myself using Ruby On Rails framework. As part of the entire product solution quite often I make internal admin panels using Ruby On Rails. Also there were couple of projects needed to implement web applications with rich UI. For these applications I’ve used Javascript frameworks such as AngularJS and EmberJS. 
 
@@ -55,9 +54,7 @@ This is a complex product for dentists which consists of many parts and most of 
 - Analytics Panel. This is an internal analytics application which helps the Client to determine how the end users use Web and iPad applications. These applications send events to the analytics server through the API. It has been implemented ￼￼￼￼￼￼using Ruby On Rails framework.
 - Internal CMS which has been created for managing content of Whitening Simulator Pro iPad application (per dentist customization, dentists and whitening manufactures associating, dentist promo page managing). It also has been implemented using Ruby On Rails on top of RefineryCMS.
 
-#### 1-3-5 List. 
-
-The MVP of todo list iPhone application based on 1-3-5 list idea (http://1-3- 5.com/).
+<br>
 
 #### EDMX (http://edmx.net/). 
 
@@ -67,25 +64,27 @@ This is an iOS and Android client application that helps EDM fans follow their f
 - Articles review panel. Because the articles get into system through the parser bot, they need to be reviewed by a human. This panel has been implemented using EmberJS and Ruby On Rails.
 - News feature on the iOS application: browsing, searching, saving and favoriting articles.
 
-#### Wish And Get 
-
-(http://wishandget.ru/). 
-
-Service for managing your wishes list, browsing friends' wishes and promising to make their wishes came true. My work on this project was to implement MVP iOS application and server API (Ruby On Rails).
+<br>
 
 #### Veeb (http://veebproject.azurewebsites.net/). 
 
 This is a full screen visual messaging app. My work on this project was to build an MVP iOS application.
 
-### IT-Commune (February 2011 – September 2013)
+<br>
 
-“http://it-commune.com/
+### IT-Commune
+
+February 2011 – September 2013, [http://it-commune.com/](http://it-commune.com/)
 
 This was a good place to get technical skills working in pair with great developers, and also to evolve my remote working skills. Work in this company helped me to became familiar with many popular patterns of developing software such as MVP and MVVM and also learn the frameworks and tools needed to build it. Working here I realized that I like to build consumer-facing applications the most and I want to be involved into the process of making decisions about the how the end product should be.
+
+<br>
 
 ## Skills
 
 Software Development, iOS development, Objective-C, Ruby, Ruby on Rails, JavaScript, ￼￼AngularJS, EmberJS, .NET, Git
+
+<br>
 
 ## Education
 
@@ -111,6 +110,8 @@ Software Development, iOS development, Objective-C, Ruby, Ruby on Rails, JavaScr
         <td>June 2011</td>
     </tr>
 </table>
+
+<br>
 
 ## Languages
 
