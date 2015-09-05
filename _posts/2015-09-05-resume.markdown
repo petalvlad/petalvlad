@@ -9,6 +9,7 @@ redirect_from: "/2015/09/05/resume/"
 
 ## ￼Personal and Contact Info
 
+![](https://avatars0.githubusercontent.com/u/1518705?v=3&s=460)
 <table>
     <tr>
         <td><b>Full name</b></td>
@@ -45,15 +46,27 @@ I’ve been working in this company past two years. My main duty here is buildin
 
 Here are the projects I’ve worked on in Smart Cloud company.
 
+#### Flow Bottle
+
+[http://flowlab.co/](http://flowlab.co/)
+
+Flow Labs builds a hardware and software ecosystem to help people create and maintain healthy hydration habits.  My work on this project was to create MVP iOS App which allows to:  
+- Connect to Flow Bottle device via Bluetooth/BLE 
+- Read water consumptions data from device 
+- Display water hydration progress 
+- Allow to add water inputs manually
+
 #### Whitening Simulator Pro
 
 [http://whiteningsimulatorpro.com/](http://whiteningsimulatorpro.com/)
 
-This is a complex product for dentists which consists of many parts and most of them have been implemented by me:
+The world's first whitening simulator for dental websites and offices.  
 
-- Web application.This is an HTML/Javascript application which can be embedded into dentist’s web site. It has been implemented using Ruby/Sinatra backend application and AngularJS client side application. You can see how it works on real dentist’s site http://greatexpressions.com/dental-services/general-dentistry/teeth-whitening
-- iPad application. This application has been implemented for using by patients of a dentistry. Quick demo is here http://goo.gl/lVyY9y
-- Analytics Panel. This is an internal analytics application which helps the Client to determine how the end users use Web and iPad applications. These applications send events to the analytics server through the API. It has been implemented ￼￼￼￼￼￼using Ruby On Rails framework.
+This is a complex product for dentists which consists of many parts:  
+- Web application. This is an HTML/Javascript application which can be embedded into dentist's web site. It has been implemented using Ruby/Sinatra backend application and AngularJS client side application. You can see how it works on real dentist's site http://greatexpressions.com/dental-services/general-dentistry/teeth-whitening  
+- iPad application. This application has been implemented for using by patients of a dentistry. Quick demo is here http://goo.gl/lVyY9y  
+- iPhone application - https://itunes.apple.com/us/app/whitening-simulator/id341030387?mt=8  
+- Analytics Panel. This is an internal analytics application which helps the Client to determine how the end users use Web and iPad applications. These applications send events to the analytics server through the API. It has been implemented using Ruby On Rails framework.  
 - Internal CMS which has been created for managing content of Whitening Simulator Pro iPad application (per dentist customization, dentists and whitening manufactures associating, dentist promo page managing). It also has been implemented using Ruby On Rails on top of RefineryCMS.
 
 <br>
@@ -62,10 +75,11 @@ This is a complex product for dentists which consists of many parts and most of 
 
 [http://edmx.net/](http://edmx.net/) 
 
-This is an iOS and Android client application that helps EDM fans follow their favorite artists and plan festival trips. My work on this project was to implement following things:
+iOS client application that helps EDM fans follow their favorite artists and plan festival trips.   
 
-- News sources parser. This is a background worker which periodically fetches news articles from different RSS news aggregators and save them into EDMX database.
-- Articles review panel. Because the articles get into system through the parser bot, they need to be reviewed by a human. This panel has been implemented using EmberJS and Ruby On Rails.
+My work on this project was to implement following things:  
+- News sources parser. This is a background worker which periodically fetches news articles from different RSS news aggregators and save them into EDMX database.  
+- Articles review panel. Because the articles get into system through the parser bot, they need to be reviewed by a human. This panel has been implemented using EmberJS and Ruby On Rails.  
 - News feature on the iOS application: browsing, searching, saving and favoriting articles.
 
 <br>
