@@ -9,8 +9,13 @@ redirect_from: "/2015/09/05/resume/"
 
 ## ￼Personal and Contact Info
 
-![](https://avatars0.githubusercontent.com/u/1518705?v=3&s=460)
+
 <table>
+    <tr>
+        <td rowspan="7">
+            <img src="https://avatars0.githubusercontent.com/u/1518705?v=3&s=300" />
+        </td>
+    </tr>
     <tr>
         <td><b>Full name</b></td>
         <td>Alexander Petropavlovsky</td>
@@ -30,6 +35,11 @@ redirect_from: "/2015/09/05/resume/"
     <tr>
         <td><b>Phone</b></td>
         <td>+7 (923) 297-22-56</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <br>
+        </td>
     </tr>
 </table>
 <br>
