@@ -64,6 +64,7 @@ Here are the projects I’ve worked on in Smart Cloud company.
 [http://flowlab.co/](http://flowlab.co/)
 
 Flow Labs builds a hardware and software ecosystem to help people create and maintain healthy hydration habits.  My work on this project was to create MVP iOS App which allows to:  
+
 - Connect to Flow Bottle device via Bluetooth/BLE 
 - Read water consumptions data from device 
 - Display water hydration progress 
