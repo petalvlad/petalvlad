@@ -7,6 +7,7 @@ permalink: resume
 redirect_from: "/2015/09/05/resume/"
 ---
 
+<section>
 ## ￼Personal and Contact Info
 
 <div>
@@ -43,6 +44,8 @@ redirect_from: "/2015/09/05/resume/"
 
 <div></div>
 <br>
+
+</section>
 
 ## Job Experience
 
