@@ -32,7 +32,10 @@ redirect_from: "/2015/09/05/resume/"
     </tr>
 </table>
 
+
 # Job Experience
+
+
 
 ## Smart Cloud (August 2013 – Present)
 http://smartcloudcompany.com/
