@@ -11,23 +11,23 @@ redirect_from: "/2015/09/05/resume/"
 
 <table>
     <tr>
-        <td>Full name</td>
+        <td><b>Full name</b></td>
         <td>Alexander Petropavlovsky</td>
     </tr>
     <tr>
-        <td>Country</td>
+        <td><b>Country</b></td>
         <td>Russia</td>
     </tr>
     <tr>
-        <td>City</td>
+        <td><b>City</b></td>
         <td>Krasnoyarsk</td>
     </tr>
     <tr>
-        <td>Email</td>
+        <td><b>Email</b></td>
         <td>alex.petropavlovsky@smartcloud.io</td>
     </tr>
     <tr>
-        <td>Phone</td>
+        <td><b>Phone</b></td>
         <td>+7 (923) 297-22-56</td>
     </tr>
 </table>
@@ -45,7 +45,9 @@ I’ve been working in this company past two years. My main duty here is buildin
 
 Here are the projects I’ve worked on in Smart Cloud company.
 
-#### Whitening Simulator Pro (http://whiteningsimulatorpro.com/). 
+#### Whitening Simulator Pro
+
+[http://whiteningsimulatorpro.com/](http://whiteningsimulatorpro.com/)
 
 This is a complex product for dentists which consists of many parts and most of them have been implemented by me:
 
@@ -56,7 +58,9 @@ This is a complex product for dentists which consists of many parts and most of 
 
 <br>
 
-#### EDMX (http://edmx.net/). 
+#### EDMX
+
+[http://edmx.net/](http://edmx.net/) 
 
 This is an iOS and Android client application that helps EDM fans follow their favorite artists and plan festival trips. My work on this project was to implement following things:
 
@@ -66,7 +70,9 @@ This is an iOS and Android client application that helps EDM fans follow their f
 
 <br>
 
-#### Veeb (http://veebproject.azurewebsites.net/). 
+#### Veeb 
+
+[http://veebproject.azurewebsites.net/](http://veebproject.azurewebsites.net/)
 
 This is a full screen visual messaging app. My work on this project was to build an MVP iOS application.
 
@@ -90,23 +96,23 @@ Software Development, iOS development, Objective-C, Ruby, Ruby on Rails, JavaScr
 
 <table>
     <tr>
-        <td>University</td>
+        <td><b>University</b></td>
         <td>Siberian State Technological University</td>
     </tr>
     <tr>
-        <td>Country</td>
+        <td><b>Country</b></td>
         <td>Russia</td>
     </tr>
     <tr>
-        <td>Speciality</td>
+        <td><b>Speciality</b></td>
         <td>Computers and automated systems software</td>
     </tr>
     <tr>
-        <td>Start Date</td>
+        <td><b>Start Date</b></td>
         <td>September 2006</td>
     </tr>
     <tr>
-        <td>End Date</td>
+        <td><b>End Date</b></td>
         <td>June 2011</td>
     </tr>
 </table>
