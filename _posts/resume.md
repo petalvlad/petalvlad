@@ -1,0 +1,71 @@
+# ￼Personal and Contact Info
+
+￼￼￼￼Full Name       Alexander Petropavlovsky
+Country         Russia
+￼Phone           +7 (923) 297-22-56
+￼Email Address   alex.petropavlovsky@smartcloud.io
+￼City            Krasnoyarsk
+
+# Job Experience
+
+## Smart Cloud (August 2013 – Present)
+“http://smartcloudcompany.com/
+
+I’ve been working in this company past year and a half. My main duty here is building iOS applications, Javascript applications, and backed support to provide APIs for client/server communication. Quite often I implement these backends by myself using Ruby On Rails framework. As part of the entire product solution I make internal admin panels using Ruby On Rails. Also there were couple of projects needed to implement web applications with rich UI. For these applications I’ve used Javascript frameworks such as AngularJS and EmberJS. 
+
+Here are the projects I’ve worked on in Smart Cloud company.
+
+### Whitening Simulator Pro (http://whiteningsimulatorpro.com/). 
+
+This is a complex product for dentists which consists of many parts and most of them have been implemented by me:
+
+- Web application.This is an HTML/Javascript application which can be embedded into dentist’s web site. It has been implemented using Ruby/Sinatra backend application and AngularJS client side application. You can see how it works on real dentist’s site http://greatexpressions.com/dental-services/general-dentistry/teeth-whitening
+
+- iPad application. This application has been implemented for using by patients of a dentistry. Quick demo is here http://goo.gl/lVyY9y
+
+- Analytics Panel. This is an internal analytics application which helps the Client to determine how the end users use Web and iPad applications. These applications send events to the analytics server through the API. It has been implemented ￼￼￼￼￼￼using Ruby On Rails framework.
+- Internal CMS which has been created for managing content of Whitening Simulator Pro iPad application (per dentist customization, dentists and whitening manufactures associating, dentist promo page managing). It also has been implemented using Ruby On Rails on top of RefineryCMS.
+
+### 1-3-5 List. The MVP of todo list iPhone application based on 1-3-5 list idea (http://1-3- 5.com/).
+
+### EDMX (http://edmx.net/). This is an iOS and Android client application that helps EDM fans follow their favorite artists and plan festival trips. My work on this project was to implement following things:
+
+- News sources parser. This is a background worker which periodically fetches news articles from different RSS news aggregators and save them into EDMX database.
+
+- Articles review panel. Because the articles get into system through the parser bot, they need to be reviewed by a human. This panel has been implemented using EmberJS and Ruby On Rails.
+
+- News feature on the iOS application: browsing, searching, saving and favoriting articles.
+
+### Wish And Get 
+
+(http://wishandget.ru/). 
+
+Service for managing your wishes list, browsing friends' wishes and promising to make their wishes came true. My work on this project was to implement MVP iOS application and server API (Ruby On Rails).
+
+### Veeb (http://veebproject.azurewebsites.net/). 
+
+This is a full screen visual messaging app. My work on this project was to build an MVP iOS application.
+
+
+## IT-Commune (February 2011 – September 2013)
+
+“http://it-commune.com/
+
+This was a good place to get technical skills working in pair with great developers, and also to evolve my remote working skills. Work in this company helped me to became familiar with many popular patterns of developing software such as MVP and MVVM and also learn the frameworks and tools needed to build it. Working here I realized that I like to build consumer-facing applications the most and I want to be involved into the process of making decisions about the how the end product should be.
+
+# Skills
+
+Software Development, iOS development, Objective-C, Ruby, Ruby on Rails, JavaScript, ￼￼AngularJS, EmberJS, .NET, Git
+
+# Education
+
+Country         Russia
+￼Speciality      Computers and automated systems software
+￼Start/End Date  September 2006 - June 2011
+
+# Languages
+
+Russian (native) English
+￼￼￼￼University      Siberian State Technological University
+
+￼￼￼￼
