@@ -16,32 +16,32 @@ redirect_from: "/2015/09/05/resume/"
     <div style="float: left;">
         <table>
     
-    <tr>
-        <td><b>Full name</b></td>
-        <td>Alexander Petropavlovsky</td>
-    </tr>
-    <tr>
-        <td><b>Country</b></td>
-        <td>Russia</td>
-    </tr>
-    <tr>
-        <td><b>City</b></td>
-        <td>Krasnoyarsk</td>
-    </tr>
-    <tr>
-        <td><b>Email</b></td>
-        <td>alex.petropavlovsky@smartcloud.io</td>
-    </tr>
-    <tr>
-        <td><b>Phone</b></td>
-        <td>+7 (923) 297-22-56</td>
-    </tr>
+            <tr>
+                <td><b>Full name</b></td>
+                <td>Alexander Petropavlovsky</td>
+            </tr>
+            <tr>
+                <td><b>Country</b></td>
+                <td>Russia</td>
+            </tr>
+            <tr>
+                <td><b>City</b></td>
+                <td>Krasnoyarsk</td>
+            </tr>
+            <tr>
+                <td><b>Email</b></td>
+                <td>alex.petropavlovsky@smartcloud.io</td>
+            </tr>
+            <tr>
+                <td><b>Phone</b></td>
+                <td>+7 (923) 297-22-56</td>
+            </tr>
     
-</table>
+        </table>
     </div>
 </div>
 
-
+<div></div>
 <br>
 
 ## Job Experience
