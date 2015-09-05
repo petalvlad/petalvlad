@@ -4,6 +4,7 @@ title:  "Resume"
 date:   2015-09-05 07:06:01
 categories: resume
 permalink: resume
+redirect_from: "/2015/09/05/resume/"
 ---
 
 # ￼Personal and Contact Info

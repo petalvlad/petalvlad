@@ -12,3 +12,5 @@ github_username:  petalvlad
 
 # Build settings
 markdown: kramdown
+gems:
+    - jekyll-redirect-from
