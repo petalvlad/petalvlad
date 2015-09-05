@@ -8,10 +8,10 @@ redirect_from: "/2015/09/05/resume/"
 ---
 
 <section>
-## ￼Personal and Contact Info
+<h2>Personal Info</h2>
 
 <div>
-    <div style="float: left;">
+    <div style="float: left; parring-right: 30px;">
         <img src="https://avatars0.githubusercontent.com/u/1518705?v=3&s=150" />
     </div>
     <div>
