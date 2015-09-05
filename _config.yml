@@ -4,8 +4,12 @@ email: alex.petropavlovsky@smartcloud.io
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://petalvlad.github.io" # the base hostname & protocol for your site
-twitter_username: petropavlovsky
-github_username:  petalvlad
+author :
+  name : Alexander Petropavlovsky
+  email : alex.petropavlovsky@smartcloud.io
+  github : petalvlad
+  twitter : petropavlovsky
+  linkedin: alexander.petropavlovsky
 
 # Build settings
 markdown: kramdown
