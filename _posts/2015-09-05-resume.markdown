@@ -9,13 +9,13 @@ redirect_from: "/2015/09/05/resume/"
 
 ## ￼Personal and Contact Info
 
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img src="https://avatars0.githubusercontent.com/u/1518705?v=3&s=300" />
-        </td>
-    </tr>
+<div>
+    <div style="float: left;">
+        <img src="https://avatars0.githubusercontent.com/u/1518705?v=3&s=300" />
+    </div>
+    <div style="float: left;">
+        <table>
+    
     <tr>
         <td><b>Full name</b></td>
         <td>Alexander Petropavlovsky</td>
@@ -36,12 +36,12 @@ redirect_from: "/2015/09/05/resume/"
         <td><b>Phone</b></td>
         <td>+7 (923) 297-22-56</td>
     </tr>
-    <tr>
-        <td colspan="2">
-            <br>
-        </td>
-    </tr>
+    
 </table>
+    </div>
+</div>
+
+
 <br>
 
 ## Job Experience
