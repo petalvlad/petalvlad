@@ -55,8 +55,6 @@ August 2013 – Present, [http://smartcloudcompany.com/](http://smartcloudcompan
 
 I’ve been working in this company past two years. My main duty here is building iOS consumer facing applications. Sometimes I also make Javascript applications, and backed support to provide APIs for client/server communication. Quite often I implement these backends by myself using Ruby On Rails framework. As part of the entire product solution quite often I make internal admin panels using Ruby On Rails. Also there were couple of projects needed to implement web applications with rich UI. For these applications I’ve used Javascript frameworks such as AngularJS and EmberJS. 
 
-<br>
-
 Last year I'm really focused on iOS Development. You can look at my thoughts and architecture approach in this blog post - [iOS Development as a Service](http://www.sm-cloud.com/ios-development-as-a-service/).
 
 <br>
