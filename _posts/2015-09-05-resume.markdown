@@ -53,11 +53,34 @@ redirect_from: "/2015/09/05/resume/"
 
 August 2013 – Present, [http://smartcloudcompany.com/](http://smartcloudcompany.com/)
 
-I’ve been working in this company past two years. My main duty here is building iOS applications, Javascript applications, and backed support to provide APIs for client/server communication. Quite often I implement these backends by myself using Ruby On Rails framework. As part of the entire product solution quite often I make internal admin panels using Ruby On Rails. Also there were couple of projects needed to implement web applications with rich UI. For these applications I’ve used Javascript frameworks such as AngularJS and EmberJS. 
+I’ve been working in this company past two years. My main duty here is building iOS consumer facing applications. Sometimes I also make Javascript applications, and backed support to provide APIs for client/server communication. Quite often I implement these backends by myself using Ruby On Rails framework. As part of the entire product solution quite often I make internal admin panels using Ruby On Rails. Also there were couple of projects needed to implement web applications with rich UI. For these applications I’ve used Javascript frameworks such as AngularJS and EmberJS. 
+
+<br>
+
+Last year I'm really focused on iOS Development. You can look at my thoughts and architecture approach in this blog post - [iOS Development as a Service](http://www.sm-cloud.com/ios-development-as-a-service/).
 
 <br>
 
 Here are the projects I’ve worked on in Smart Cloud company.
+
+#### Polyfish
+
+This is an iOS App helps users to learn foreign languages by performing scenes and recording their dialogues and actions on video. Imagine that you have a script with several roles and lines. You can create a performance for a specific scene, choose a role, wait for other participants and start the action. Performing keeps going turn by turn via sending recorded on the video dialogues.
+
+My work on the first stage of this project was to build a prototype that provides messaging feature, creating (recording), browsing and playback of video messages. 
+
+I've used following technologies and tools to achieve project's goals:
+
+- `PubNub` for realtime messaging
+- `AVFoundation` & `AVKit` for video recording and playback
+- `Realm` as a local data storage
+- `AFNetworking` & `Mantle` for handling networking and mapping JSON to models
+- `ReactiveCocoa` as a glue between business logic layers and for data binding
+- `FXForms` & `FXModelValidation` for managing static forms and validation
+- MVVM pattern to encapsulate logic needed to prepare data for View layer
+- `Typhoon` for objects dependencies management
+
+<br>
 
 #### Flow Bottle
 
