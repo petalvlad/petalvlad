@@ -83,7 +83,7 @@ I've used following technologies and tools to achieve project's goals:
 - MVVM pattern to encapsulate logic needed to prepare data for View layer
 - `Typhoon` for objects dependencies management
 
-Here is the demo video of how this app looks and works https://www.dropbox.com/s/px9ganbyjmqvnvq/demo.mov?dl=0
+Here is the demo video of how this app looks and works [Polyfish demo video](https://www.dropbox.com/s/px9ganbyjmqvnvq/demo.mov?dl=0)
 
 <br>
 
@@ -108,11 +108,13 @@ The world's first whitening simulator for dental websites and offices.
 
 This is a complex product for dentists which consists of many parts. I've implemented following applications during this project: 
 
-- Whitening Simulator iPad application - demo of how the app works is here https://www.dropbox.com/s/zf6nfry42o8cacs/wspro-demo.mov?dl=0
-- Whitening Simulator iPhone application - https://itunes.apple.com/us/app/whitening-simulator/id341030387?mt=8  
+- Whitening Simulator iPad application - demo of how the app works is here [WS Pro demo video](https://www.dropbox.com/s/zf6nfry42o8cacs/wspro-demo.mov?dl=0)
+- Whitening Simulator iPhone application - [App Store link](https://itunes.apple.com/us/app/whitening-simulator/id341030387?mt=8)  
 - Whitening Simulator Javascript Web application which can be embedded into dentist's web site
 - Analytics Panel - Ruby On Rails web analytics application for internal client's usage 
 - Internal CMS which has been created for managing content of Whitening Simulator Pro iPad application - Ruby On Rails web application on top of RefineryCMS
+
+[![ScreenShot](https://www.dropbox.com/s/t4av2vuvoq2of6d/Screenshot%202016-03-29%2012.26.23.png?dl=1)](https://youtu.be/LaaRYwI3wxo)
 
 <br>
 
