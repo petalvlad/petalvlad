@@ -79,7 +79,7 @@ I have used following technologies and tools to achieve the project’s goals:
 - MVVM pattern to encapsulate logic needed to prepare data for View layer
 - `Typhoon` for objects dependencies management
 
-Here is the demo video of how this app looks and works 
+Here is the demo video of how this app looks like and works 
 
 [![ScreenShot](https://www.dropbox.com/s/fzjkq1k4mzy3u7m/Screenshot%202016-03-29%2012.32.01.png?dl=1)](https://youtu.be/XwIU1q90RLg)
 
