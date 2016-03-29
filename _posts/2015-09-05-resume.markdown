@@ -1,6 +1,6 @@
 ---
 layout: empty
-title:  "Alexander Petropavlovsky's Resume"
+title:  "Alexander Petropavlovsky"
 date:   2015-09-05 07:06:01
 categories: resume
 permalink: resume
@@ -48,29 +48,27 @@ redirect_from: "/2015/09/05/resume/"
 
 ## About
 
-Hello, I'm Alex, iOS developer with over 3 years experience in creating iOS consumer facing applications. I specialize on building applications with strong architecture and implementing client-server integration between an iOS application and backend API. You can find details of my architecture approach in this article [iOS Development as a Service](http://www.sm-cloud.com/ios-development-as-a-service/), and also details of my client-server integration approach here [iOS Client-Server Integration Approach](http://www.sm-cloud.com/ios-client-server-integration-approach/). 
-
-Below you can find the list of apps I've made.
+iOS developer with over 3 years experience in creating iOS consumer facing applications. I specialize in building applications with strong architecture and implementing client-server integration between iOS application and backend API. You can find details of my architecture approach in the article [iOS Development as a Service](http://www.sm-cloud.com/ios-development-as-a-service/), and details of my client-server integration approach here [iOS Client-Server Integration Approach](http://www.sm-cloud.com/ios-client-server-integration-approach/). 
 
 ## Job Experience
 
 ### Smart Cloud 
 
-August 2013 – Present, [http://smartcloudcompany.com/](http://smartcloudcompany.com/)
+August 2013 – Present, [http://smartcloud.io/](http://smartcloud.io/)
 
-I’ve been working in this company since august 2013 as an iOS developer. My primary work here is building iOS consumer facing applications. Except development work, I also communicate with clients in order to provide the best solution which corresponds to client's requirements. Also I write technical articles which you can find on company's [blog](http://www.sm-cloud.com/). 
+I have been working in this Сompany since August 2013 as an iOS developer. My primary work here is building iOS consumer facing applications.  I am engaged not only in the development work, but also communicate with clients in order to provide the best solution according to their requirements. Among that, I write technical articles which you can find on company’s [blog](http://www.sm-cloud.com/). 
 
-Here are the projects I’ve worked on in Smart Cloud company.
+Here are the projects I have worked on in Smart Cloud Company:
 
 #### Polyfish
 
 [http://www.polyfishapp.com/en/](http://www.polyfishapp.com/en/)
 
-Polyfish is a video messaging and discovery app specially designed to help people everywhere master new languages, together. This app allows users to choose a language they want to learn, find or create conversations with specific topic and practice their speaking skills by recording and sending video messages. 
+Polyfish is a video messaging and discovery app specially designed to help people from all over the world master new languages. This app allows users to choose a language they want to learn, find or create conversations with a specific topic and practice their speaking skills by recording and sending video messages.
 
-My work on this project was to build messaging feature, implement recording and playback of video messages, implement friendship feature, and also implement sign in, sign up and user profile management features. 
+My work on this project was to build messaging feature, implement recording and playback of video messages, implement friendship feature, and also implement sign in, sign up and user profile management features.
 
-I've used following technologies and tools to achieve project's goals:
+I have used following technologies and tools to achieve the project’s goals:
 
 - `PubNub` for realtime messaging
 - `AVFoundation` & `AVKit` for video recording and playback
@@ -91,11 +89,11 @@ Here is the demo video of how this app looks and works
 
 [http://flowlab.co/](http://flowlab.co/)
 
-Flow Labs builds a hardware and software ecosystem to help people create and maintain healthy hydration habits.  My work on this project was to create MVP iOS App which allows to:  
+Flow Labs builds hardware and software ecosystems to help people create and maintain healthy hydration habits. My work on this project was to create a MVP iOS App which allows to: 
 
-- Connect to Flow Bottle device via Bluetooth/BLE 
+- Connect to Flow Bottle device via Bluetooth/BLE
 - Read water consumptions data from device via Bluetooth/BLE
-- Display water hydration progress (how much water was consumed)
+- Display water hydration progress (how much water has been consumed)
 - Allow to add water inputs manually
 
 <br>
@@ -104,9 +102,9 @@ Flow Labs builds a hardware and software ecosystem to help people create and mai
 
 [http://whiteningsimulatorpro.com/](http://whiteningsimulatorpro.com/)
 
-The world's first whitening simulator for dental websites and offices.  
+The world’s first whitening simulator for dental websites and offices.
 
-This is a complex product for dentists which consists of many parts. I've implemented following applications during this project: 
+This is a complex product for dentists which consists of many parts. I have implemented following applications during this project: 
 
 - Whitening Simulator iPad application - demo of how the app works is here [WS Pro demo video](https://www.dropbox.com/s/zf6nfry42o8cacs/wspro-demo.mov?dl=0)
 - Whitening Simulator iPhone application - [App Store link](https://itunes.apple.com/us/app/whitening-simulator/id341030387?mt=8)  
@@ -122,13 +120,13 @@ This is a complex product for dentists which consists of many parts. I've implem
 
 [http://edmx.net/](http://edmx.net/) 
 
-iOS client application that helps EDM fans follow their favorite artists and plan festival trips.   
+iOS client application that helps EDM fans follow their favorite artists and plan festival trips.
 
-My work on this project was to implement following things: 
+My work on this project was to implement the following:
 
-- News feature on the iOS application: browsing, searching, saving and favoriting news articles
-- News sources parser - server background worker which periodically fetches news articles from different RSS news aggregators and save them into EDMX database  
-- News Articles review panel, implemented using EmberJS and Ruby On Rails  
+- News feature in the iOS application: browsing, searching, saving and favoriting news articles
+- News sources parser – server background worker which periodically fetches news articles from different RSS news aggregators and saves them into EDMX database
+- News Articles review panel, implemented using EmberJS and Ruby On Rails 
 
 <br>
 
@@ -144,7 +142,7 @@ This is a full screen visual messaging app. My work on this project was to build
 
 February 2011 – September 2013, [http://it-commune.com/](http://it-commune.com/)
 
-This was a good place to get technical skills working in pair with great developers, and also to evolve my remote working skills. Work in this company helped me to became familiar with many popular patterns of developing software such as MVP and MVVM and also learn the frameworks and tools needed to build it. Working here I realized that I like to build consumer-facing applications the most and I want to be involved into the process of making decisions about the how the end product should be.
+This was a good place to get technical skills working in pair with great developers, and also to evolve my remote working skills. Work for this company helped me to become familiar with many popular patterns of developing software, such as MVP and MVVM, and also learn frameworks and tools needed to build it. While working there I realized that I liked building consumer-facing applications most of all, and want to be involved into process of making decisions on what the end product should be like.
 
 <br>
 
