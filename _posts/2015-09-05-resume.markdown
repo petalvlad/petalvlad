@@ -48,7 +48,7 @@ redirect_from: "/2015/09/05/resume/"
 
 ## About
 
-Hello, I'm Alex, iOS developer with over 3 years experience in creating iOS consumer facing applications. I specialize on building applications with strong architecture and implementing client-server integration between an iOS application and backend API. You can find details of my architecture approach in this article http://www.sm-cloud.com/ios-development-as-a-service/, and also details of my client-server integration approach here http://www.sm-cloud.com/ios-client-server-integration-approach/. 
+Hello, I'm Alex, iOS developer with over 3 years experience in creating iOS consumer facing applications. I specialize on building applications with strong architecture and implementing client-server integration between an iOS application and backend API. You can find details of my architecture approach in this article [iOS Development as a Service](http://www.sm-cloud.com/ios-development-as-a-service/), and also details of my client-server integration approach here [iOS Client-Server Integration Approach](http://www.sm-cloud.com/ios-client-server-integration-approach/). 
 
 Below you can find the list of apps I've made.
 
@@ -58,7 +58,7 @@ Below you can find the list of apps I've made.
 
 August 2013 – Present, [http://smartcloudcompany.com/](http://smartcloudcompany.com/)
 
-I’ve been working in this company since august 2013 as an iOS developer. My primary work here is building iOS consumer facing applications. Except development work, I also communicate with clients in order to provide the best solution which corresponds to client's requirements. Also I write technical articles which you can find on company's blog http://www.sm-cloud.com/. 
+I’ve been working in this company since august 2013 as an iOS developer. My primary work here is building iOS consumer facing applications. Except development work, I also communicate with clients in order to provide the best solution which corresponds to client's requirements. Also I write technical articles which you can find on company's [blog](http://www.sm-cloud.com/). 
 
 <br>
 
