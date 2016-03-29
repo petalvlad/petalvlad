@@ -46,16 +46,19 @@ redirect_from: "/2015/09/05/resume/"
 
 <br>
 
-## Job Experience
+## About
 
+Hello, I'm Alex, iOS developer with over 3 years experience in creating iOS consumer facing applications. I specialize on building applications with strong architecture and implementing client-server integration between an iOS application and backend API. You can find details of my architecture approach in this article http://www.sm-cloud.com/ios-development-as-a-service/, and also details of my client-server integration approach here http://www.sm-cloud.com/ios-client-server-integration-approach/. 
+
+Below you can find the list of apps I've made.
+
+## Job Experience
 
 ### Smart Cloud 
 
 August 2013 – Present, [http://smartcloudcompany.com/](http://smartcloudcompany.com/)
 
-I’ve been working in this company past two years. My main duty here is building iOS consumer facing applications. Sometimes I also make Javascript applications, and backed support to provide APIs for client/server communication. Quite often I implement these backends by myself using Ruby On Rails framework. As part of the entire product solution quite often I make internal admin panels using Ruby On Rails. Also there were couple of projects needed to implement web applications with rich UI. For these applications I’ve used Javascript frameworks such as AngularJS and EmberJS. 
-
-Last year I'm really focused on iOS Development. You can look at my thoughts and architecture approach in this blog post - [iOS Development as a Service](http://www.sm-cloud.com/ios-development-as-a-service/).
+I’ve been working in this company since august 2013 as an iOS developer. My primary work here is building iOS consumer facing applications. Except development work, I also communicate with clients in order to provide the best solution which corresponds to client's requirements. Also I write technical articles which you can find on company's blog http://www.sm-cloud.com/. 
 
 <br>
 
@@ -63,9 +66,11 @@ Here are the projects I’ve worked on in Smart Cloud company.
 
 #### Polyfish
 
-This is an iOS App helps users to learn foreign languages by performing scenes and recording their dialogues and actions on video. Imagine that you have a script with several roles and lines. You can create a performance for a specific scene, choose a role, wait for other participants and start the action. Performing keeps going turn by turn via sending recorded on the video dialogues.
+[http://www.polyfishapp.com/en/](http://www.polyfishapp.com/en/)
 
-My work on the first stage of this project was to build a prototype that provides messaging feature, creating (recording), browsing and playback of video messages. 
+Polyfish is a video messaging and discovery app specially designed to help people everywhere master new languages, together. This app allows users to choose a language they want to learn, find or create conversations with specific topic and practice their speaking skills by recording and sending video messages. 
+
+My work on this project was to build messaging feature, implement recording and playback of video messages, implement friendship feature, and also implement sign in, sign up and user profile management features. 
 
 I've used following technologies and tools to achieve project's goals:
 
@@ -78,6 +83,8 @@ I've used following technologies and tools to achieve project's goals:
 - MVVM pattern to encapsulate logic needed to prepare data for View layer
 - `Typhoon` for objects dependencies management
 
+Here is the demo video of how this app looks and works https://www.dropbox.com/s/px9ganbyjmqvnvq/demo.mov?dl=0
+
 <br>
 
 #### Flow Bottle
@@ -87,8 +94,8 @@ I've used following technologies and tools to achieve project's goals:
 Flow Labs builds a hardware and software ecosystem to help people create and maintain healthy hydration habits.  My work on this project was to create MVP iOS App which allows to:  
 
 - Connect to Flow Bottle device via Bluetooth/BLE 
-- Read water consumptions data from device 
-- Display water hydration progress 
+- Read water consumptions data from device via Bluetooth/BLE
+- Display water hydration progress (how much water was consumed)
 - Allow to add water inputs manually
 
 <br>
@@ -99,13 +106,13 @@ Flow Labs builds a hardware and software ecosystem to help people create and mai
 
 The world's first whitening simulator for dental websites and offices.  
 
-This is a complex product for dentists which consists of many parts:
+This is a complex product for dentists which consists of many parts. I've implemented following applications during this project: 
 
-- Web application. This is an HTML/Javascript application which can be embedded into dentist's web site. It has been implemented using Ruby/Sinatra backend application and AngularJS client side application. You can see how it works on real dentist's site http://greatexpressions.com/dental-services/general-dentistry/teeth-whitening  
-- iPad application. This application has been implemented for using by patients of a dentistry. Quick demo is here http://goo.gl/lVyY9y  
-- iPhone application - https://itunes.apple.com/us/app/whitening-simulator/id341030387?mt=8  
-- Analytics Panel. This is an internal analytics application which helps the Client to determine how the end users use Web and iPad applications. These applications send events to the analytics server through the API. It has been implemented using Ruby On Rails framework.  
-- Internal CMS which has been created for managing content of Whitening Simulator Pro iPad application (per dentist customization, dentists and whitening manufactures associating, dentist promo page managing). It also has been implemented using Ruby On Rails on top of RefineryCMS.
+- Whitening Simulator iPad application - demo of how the app works is here https://www.dropbox.com/s/zf6nfry42o8cacs/wspro-demo.mov?dl=0
+- Whitening Simulator iPhone application - https://itunes.apple.com/us/app/whitening-simulator/id341030387?mt=8  
+- Whitening Simulator Javascript Web application which can be embedded into dentist's web site
+- Analytics Panel - Ruby On Rails web analytics application for internal client's usage 
+- Internal CMS which has been created for managing content of Whitening Simulator Pro iPad application - Ruby On Rails web application on top of RefineryCMS
 
 <br>
 
@@ -117,9 +124,10 @@ iOS client application that helps EDM fans follow their favorite artists and pla
 
 My work on this project was to implement following things: 
 
-- News sources parser. This is a background worker which periodically fetches news articles from different RSS news aggregators and save them into EDMX database.  
-- Articles review panel. Because the articles get into system through the parser bot, they need to be reviewed by a human. This panel has been implemented using EmberJS and Ruby On Rails.  
-- News feature on the iOS application: browsing, searching, saving and favoriting articles.
+- News feature on the iOS application: browsing, searching, saving and favoriting news articles
+- News sources parser - server background worker which periodically fetches news articles from different RSS news aggregators and save them into EDMX database  
+- News Articles review panel, implemented using EmberJS and Ruby On Rails  
+
 
 <br>
 
@@ -141,7 +149,7 @@ This was a good place to get technical skills working in pair with great develop
 
 ## Skills
 
-Software Development, iOS development, Objective-C, Ruby, Ruby on Rails, JavaScript, ￼￼AngularJS, EmberJS, .NET, Git
+Software Development, iOS development, Objective-C, Ruby on Rails, Git
 
 <br>
 
