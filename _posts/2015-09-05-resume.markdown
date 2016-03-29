@@ -48,7 +48,7 @@ redirect_from: "/2015/09/05/resume/"
 
 ## About
 
-iOS developer with over 3 years experience in creating iOS consumer facing applications. I specialize in building applications with strong architecture and implementing client-server integration between iOS application and backend API. You can find details of my architecture approach in the article [iOS Development as a Service](http://www.sm-cloud.com/ios-development-as-a-service/), and details of my client-server integration approach here [iOS Client-Server Integration Approach](http://www.sm-cloud.com/ios-client-server-integration-approach/). 
+I'm iOS developer with over 3 years experience in creating iOS consumer facing applications. I specialize in building applications with strong architecture and implementing client-server integration between iOS application and backend API. You can find details of my architecture approach in the article [iOS Development as a Service](http://www.sm-cloud.com/ios-development-as-a-service/), and details of my client-server integration approach here [iOS Client-Server Integration Approach](http://www.sm-cloud.com/ios-client-server-integration-approach/). 
 
 ## Job Experience
 
