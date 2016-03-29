@@ -83,7 +83,9 @@ I've used following technologies and tools to achieve project's goals:
 - MVVM pattern to encapsulate logic needed to prepare data for View layer
 - `Typhoon` for objects dependencies management
 
-Here is the demo video of how this app looks and works [Polyfish demo video](https://www.dropbox.com/s/px9ganbyjmqvnvq/demo.mov?dl=0)
+Here is the demo video of how this app looks and works 
+
+[![ScreenShot](https://www.dropbox.com/s/fzjkq1k4mzy3u7m/Screenshot%202016-03-29%2012.32.01.png?dl=1)](https://youtu.be/XwIU1q90RLg)
 
 <br>
 
@@ -129,7 +131,6 @@ My work on this project was to implement following things:
 - News feature on the iOS application: browsing, searching, saving and favoriting news articles
 - News sources parser - server background worker which periodically fetches news articles from different RSS news aggregators and save them into EDMX database  
 - News Articles review panel, implemented using EmberJS and Ruby On Rails  
-
 
 <br>
 
