@@ -60,8 +60,6 @@ August 2013 – Present, [http://smartcloudcompany.com/](http://smartcloudcompan
 
 I’ve been working in this company since august 2013 as an iOS developer. My primary work here is building iOS consumer facing applications. Except development work, I also communicate with clients in order to provide the best solution which corresponds to client's requirements. Also I write technical articles which you can find on company's [blog](http://www.sm-cloud.com/). 
 
-<br>
-
 Here are the projects I’ve worked on in Smart Cloud company.
 
 #### Polyfish
